@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">gunagem</string>
+    <string name="hint_name">Nama Lengkap</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">No. Telepon</string>
+    <string name="hint_address">Alamat</string>
+    <string name="button_submit">Submit</string>
+</resources>
