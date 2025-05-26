@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GemsListView</string>
+    <string name="hint_input">Masukkan Judul</string>
+    <string name="button_add">Tambah ke List</string>
+    <string name="tambah_ke_list">Tambah ke List</string>
+    <string name="masukkan_judul">Masukkan Judul</string>
+</resources>
